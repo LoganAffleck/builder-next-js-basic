@@ -1,5 +1,5 @@
 import type { AppProps } from 'next/app'
-
+import '../styles.css'
 import { builder } from '@builder.io/react'
 import builderConfig from '@config/builder'
 import '../components/Heading.tsx'
